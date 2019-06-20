@@ -1,3 +1,18 @@
+## Version 1.0.0
+
+- Se agrega MapBox con las estaciones de bicicletas.
+- Se aplica clustering al mapa (similar a un mapa de calor).
+- Se agrega detalle de la estación (las últimas bicicletas disponibles y ocupadas).
+- Se agrega filtro por estación.
+- Se agrega gráfico de línea de tiempo.
+- Se agrega gráfico de torta.
+- Se agrega gráfico de barras.
+
+## TODOs:
+
+- Filtrar en el mapa por estación.
+- Predecir, ¿Cuántas bicicletas disponibles tendrá X estación? (regresión lineal)
+
 ## Arquitectura
 
 ![arquitectura](https://github.com/ns4lin4s/bike-trail/blob/master/screenshot/arquitectura.png)

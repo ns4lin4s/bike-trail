@@ -17,7 +17,7 @@
     "mapbox": "^1.0.0-beta10",
     "mapbox-gl": "^0.53.1",
     "moment": "^2.24.0",
-    "mongoose": "^5.4.21",
+    "mongoose": "^5.7.5",
     "numeral": "^2.0.6",
     "react": "^16.2.0",
     "react-bootstrap-table": "^4.3.1",

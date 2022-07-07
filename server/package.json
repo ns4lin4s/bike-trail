@@ -16,7 +16,7 @@
     "json-loader": "^0.5.4",
     "mapbox": "^1.0.0-beta10",
     "mapbox-gl": "^0.53.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongoose": "^5.4.21",
     "numeral": "^2.0.6",
     "react": "^16.2.0",
